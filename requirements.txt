@@ -1,2 +1,2 @@
-rich
-requests
+rich==14.1.0
+requests==2.32.5
