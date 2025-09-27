@@ -9,8 +9,7 @@
 
 ## 🛠️ Installation
 ```bash
-# Run setup (auto-installs dependencies)
-python setup.py 
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
