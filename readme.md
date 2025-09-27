@@ -20,13 +20,6 @@ python main.py
 Output will be saved to `proxies.txt`
 
 
-## 📂 File Structure
-```
-/
-├── main.py   # Main scraping tool
-├── setup.py           # Installation script
-```
-
 ## 📊 Performance
 - Typically scrapes 5000-15000 proxies
 - Execution time: 15-30 seconds
@@ -59,9 +52,6 @@ MIT License - Free for educational and personal use
 ---
 
 ## 🌐 Source Of proxies:
-- Github: Zaeem20
-- Github: proxifly
-- Api: api.proxyscrape.com
-- Api: www.proxy-list.download
+> `scr_rep.txt`
 
 ---
