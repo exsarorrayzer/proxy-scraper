@@ -1,7 +1,6 @@
 # Proxy Scraper Tool
 
 ## 🌟 Features
-- **Multi-Source Scraping** - Aggregates proxies from 6+ public sources
 - **Smart Validation** - Cleans and filters invalid proxies
 - **Concurrent Fetching** - Uses threading for faster scraping
 - **Duplicate Removal** - Ensures unique proxies only
