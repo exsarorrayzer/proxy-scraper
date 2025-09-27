@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/socks4.txt
+https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/all/data.txt
+https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+https://sunny9577.github.io/proxy-scraper/proxies.txt
+https://github.com/zloi-user/hideip.me/raw/refs/heads/master/connect.txt
+https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks5.txt
+https://github.com/zloi-user/hideip.me/raw/refs/heads/master/socks4.txt
+https://github.com/zloi-user/hideip.me/raw/refs/heads/master/https.txt
+https://github.com/zloi-user/hideip.me/raw/refs/heads/master/http.txt
+https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/all.txt
+https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies_anonymous/all.txt
+https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/all.txt
+
